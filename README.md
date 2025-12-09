@@ -12,7 +12,7 @@ This project evaluates whether AI providers have established codes of conduct, d
 
 ## Project structure
 
-- `L4_GOV_CodesConductRoles/` – folder containing the governance-related PDFs and generated outputs.  
+- Each folder containing the governance-related PDFs and generated outputs.  
 - `script.py` – main script that evaluates the documents against L4 governance criteria.  
 - `outputs/` – evaluation results for each input document.
 
