@@ -1,0 +1,54 @@
+{
+  "overall_score": "0/12",
+  "overall_rating": "Does Not Meet L4",
+  "criteria_scores": {
+    "indigenous_sovereignty_recognition": {
+      "score": 0,
+      "evidence": "The document does not mention Indigenous data sovereignty, self-determination, or any related frameworks such as the UN Declaration on the Rights of Indigenous Peoples, CARE, or OCAP®.",
+      "gaps": "There is no acknowledgment of Indigenous peoples' rights over their data, knowledge, and cultural heritage, nor is there any commitment to respectful partnerships or relationship-building with Indigenous communities."
+    },
+    "care_ocap_implementation": {
+      "score": 0,
+      "evidence": "The document does not reference or implement CARE or OCAP® principles.",
+      "gaps": "There is no mention of collective benefit, authority to control, responsibility, ethics, ownership, control, access, or possession in relation to Indigenous data."
+    },
+    "consent_processes": {
+      "score": 0,
+      "evidence": "The document does not discuss Free, Prior, and Informed Consent (FPIC) or any consent processes respecting Indigenous governance structures.",
+      "gaps": "There are no culturally appropriate consent mechanisms, nor is there any mention of ongoing consent or the right to withdraw."
+    },
+    "indigenous_participation": {
+      "score": 0,
+      "evidence": "There is no mention of Indigenous representation or leadership in data governance bodies within the document.",
+      "gaps": "The document lacks co-design and co-governance approaches, Indigenous advisors, councils, or review boards, and mechanisms for Indigenous community input and feedback."
+    },
+    "culturally_appropriate_practices": {
+      "score": 0,
+      "evidence": "The document does not address culturally appropriate data practices or the protection of sacred, ceremonial, or culturally sensitive information.",
+      "gaps": "There is no consideration of Traditional Knowledge and Intellectual Property, nor are there appropriate data aggregation/disaggregation practices or cultural safety training for staff."
+    },
+    "benefit_sharing_accountability": {
+      "score": 0,
+      "evidence": "The document does not mention benefit-sharing arrangements with Indigenous communities or accountability measures for adherence to agreements.",
+      "gaps": "There are no mechanisms for Indigenous communities to derive value from their data, nor are there regular review and renegotiation processes with communities, transparency in data use, or dispute resolution mechanisms."
+    }
+  },
+  "strengths": [],
+  "weaknesses": [
+    "Lack of recognition of Indigenous data sovereignty and self-determination.",
+    "No implementation of CARE or OCAP® principles.",
+    "Absence of consent processes respecting Indigenous governance structures.",
+    "No Indigenous participation in data governance and decision-making.",
+    "Lack of culturally appropriate data practices.",
+    "No benefit-sharing arrangements or accountability measures."
+  ],
+  "recommendations": [
+    "Explicitly acknowledge Indigenous data sovereignty and self-determination in the policy.",
+    "Implement CARE and/or OCAP® principles to guide data stewardship.",
+    "Develop and document consent processes that respect Indigenous governance structures.",
+    "Include Indigenous representation and leadership in data governance bodies.",
+    "Adopt culturally appropriate data practices and provide cultural safety training for staff.",
+    "Establish clear benefit-sharing arrangements and accountability measures with Indigenous communities."
+  ],
+  "summary": "The document does not meet the Governance Level 4 (L4_GOV_IndigenousDataStewardship) standard as it lacks recognition of Indigenous data sovereignty, implementation of CARE/OCAP® principles, consent processes, Indigenous participation, culturally appropriate practices, and benefit-sharing arrangements. Significant improvements are needed to align with the standard."
+}

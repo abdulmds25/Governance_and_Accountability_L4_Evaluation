@@ -1,0 +1,237 @@
+{
+  "overall_score": "5/12",
+  "overall_rating": "Does Not Meet L4",
+  "criteria_scores": {
+    "stakeholder_identification": {
+      "score": 1,
+      "evidence": [
+        "The document does not provide evidence of identifying specific stakeholders.",
+        "Public input process involving approximately 1,000 Americans to draft a constitution.",
+        "No clear identification of relevant stakeholders is provided.",
+        "No clear identification of relevant stakeholders found.",
+        "No evidence of stakeholder identification.",
+        "No clear identification of relevant stakeholders is provided.",
+        "No clear identification of relevant stakeholders is provided.",
+        "No clear identification of relevant stakeholders (internal and external) is provided.",
+        "Stakeholders including the CISO and CEO are mentioned.",
+        "No evidence of stakeholder identification.",
+        "No clear identification of relevant stakeholders is provided."
+      ],
+      "gaps": [
+        "No mention of internal or external stakeholders involved in AI governance.",
+        "Limited engagement with relevant AI actors and insufficient identification of diverse stakeholders.",
+        "The document lacks specific details on who the internal and external stakeholders are.",
+        "The document does not specify internal or external stakeholders.",
+        "Lack of clear identification of relevant stakeholders.",
+        "The document lacks specific details on who the internal and external stakeholders are.",
+        "The document lacks specific identification of internal or external stakeholders.",
+        "Lack of specific stakeholder identification.",
+        "No comprehensive list of stakeholders is provided.",
+        "The document does not identify any stakeholders.",
+        "The document lacks specific mention of internal or external stakeholders."
+      ]
+    },
+    "engagement_mechanisms": {
+      "score": 1,
+      "evidence": [
+        "There is no mention of documented engagement processes or mechanisms for stakeholder input.",
+        "Partnership with the Collective Intelligence Project for public input.",
+        "Mentions of stakeholder input in planning strategies.",
+        "No documented engagement processes or mechanisms for stakeholder input are mentioned.",
+        "No documented engagement processes or mechanisms.",
+        "There are no documented engagement processes or mechanisms for stakeholder input.",
+        "No documented engagement processes or mechanisms for stakeholder input are mentioned.",
+        "No documented engagement processes or mechanisms for stakeholder input are mentioned.",
+        "No documented engagement processes or mechanisms for stakeholder input are described.",
+        "No evidence of engagement processes or mechanisms.",
+        "No documented engagement processes or mechanisms for stakeholder input are mentioned."
+      ],
+      "gaps": [
+        "Lacks description of how stakeholders are engaged or consulted.",
+        "Lack of documented engagement processes and mechanisms for ongoing stakeholder input.",
+        "No documented processes or mechanisms for stakeholder engagement are detailed.",
+        "Lacks any description of engagement processes or mechanisms.",
+        "No mechanisms for stakeholder input are documented.",
+        "The document does not describe any processes or mechanisms for engaging stakeholders.",
+        "There is no mention of processes or mechanisms for engaging stakeholders.",
+        "Absence of engagement processes and mechanisms.",
+        "Lacks any mention of engagement processes or mechanisms.",
+        "The document lacks documented engagement processes.",
+        "There is no evidence of engagement processes for stakeholders."
+      ]
+    },
+    "escalation_paths": {
+      "score": 1,
+      "evidence": [
+        "The document does not define escalation paths for issues or decision-making.",
+        "No evidence of defined escalation paths for issues and decision-making.",
+        "No defined escalation paths for issues or decision-making are mentioned.",
+        "No defined escalation paths for issues, concerns, and decision-making are provided.",
+        "No defined escalation paths for issues or decision-making.",
+        "No defined escalation paths for issues, concerns, and decision-making are mentioned.",
+        "Vulnerability reporting paths are provided for users to report issues.",
+        "There is mention of engaging with law enforcement or national security authorities in serious cases.",
+        "Escalation to stakeholders like the CISO and CEO is mentioned in case of certain risks.",
+        "No evidence of defined escalation paths.",
+        "No defined escalation paths for issues, concerns, and decision-making are present."
+      ],
+      "gaps": [
+        "No escalation paths or procedures for addressing concerns are outlined.",
+        "Absence of documented escalation paths for stakeholder concerns.",
+        "The document does not outline any escalation procedures.",
+        "The document does not outline any escalation paths.",
+        "Absence of escalation paths for concerns and decision-making.",
+        "The document does not outline any escalation paths for addressing issues or concerns.",
+        "There is no comprehensive escalation path for broader issues, concerns, and decision-making.",
+        "No detailed escalation paths for issues, concerns, and decision-making.",
+        "No detailed escalation paths are defined.",
+        "The document does not define escalation paths for issues.",
+        "The document does not outline any escalation paths."
+      ]
+    },
+    "active_participation": {
+      "score": 0,
+      "evidence": [
+        "There is no evidence of active stakeholder participation in AI governance.",
+        "Limited evidence of active stakeholder participation in AI governance.",
+        "No evidence of active stakeholder participation in AI governance.",
+        "No evidence of active stakeholder participation in AI governance is present.",
+        "No evidence of active stakeholder participation.",
+        "There is no evidence of active stakeholder participation in AI governance.",
+        "No evidence of active stakeholder participation in AI governance is provided.",
+        "No evidence of active stakeholder participation in AI governance.",
+        "No evidence of active stakeholder participation in AI governance.",
+        "No evidence of active stakeholder participation.",
+        "There is no evidence of active stakeholder participation in AI governance."
+      ],
+      "gaps": [
+        "No examples or mentions of stakeholder involvement in governance activities.",
+        "No clear evidence of ongoing stakeholder participation in governance processes.",
+        "The document does not demonstrate stakeholder involvement in governance activities.",
+        "There is no mention of stakeholder participation in governance.",
+        "No indication of stakeholder participation in AI governance.",
+        "The document does not mention any stakeholder participation in governance processes.",
+        "The document does not demonstrate active participation from stakeholders in governance.",
+        "Lack of active stakeholder participation.",
+        "No mention of stakeholder participation in governance processes.",
+        "The document does not show stakeholder participation in governance.",
+        "The document does not demonstrate stakeholder participation."
+      ]
+    },
+    "transparency_feedback": {
+      "score": 1,
+      "evidence": [
+        "The document lacks transparency about how stakeholder feedback influences decisions.",
+        "Lack of transparency in privacy policies and data handling practices.",
+        "Mentions of transparency in privacy policies and user engagement.",
+        "No transparency about how stakeholder feedback influences decisions is evident.",
+        "No transparency about how feedback influences decisions.",
+        "The document mentions welcoming input from other groups working on AI risk assessment.",
+        "Some transparency is shown through model cards and acceptable use policies.",
+        "Commitment to publicly share evaluation results and maintain a channel for reporting vulnerabilities.",
+        "There is a mention of providing transparency and support to impacted customers.",
+        "No evidence of transparency about stakeholder feedback.",
+        "No transparency about how stakeholder feedback influences decisions is provided."
+      ],
+      "gaps": [
+        "No information on how feedback is collected, processed, or utilized.",
+        "No evidence of transparency about how stakeholder feedback influences decisions.",
+        "Lacks details on how stakeholder feedback influences decisions.",
+        "The document does not discuss how feedback is used in decision-making.",
+        "Lack of transparency regarding stakeholder feedback impact.",
+        "There is no detailed explanation of how stakeholder feedback influences decisions.",
+        "There is no clear indication of how stakeholder feedback influences decisions.",
+        "No clear process on how stakeholder feedback influences decisions.",
+        "No detailed process on how stakeholder feedback influences decisions.",
+        "The document lacks transparency on how feedback influences decisions.",
+        "The document does not mention stakeholder feedback or its influence."
+      ]
+    },
+    "coverage_accessibility": {
+      "score": 1,
+      "evidence": [
+        "The document does not address coverage or accessibility of stakeholder engagement.",
+        "Public constitution focused on accessibility and objectivity.",
+        "Some discussion on accessibility of privacy policies.",
+        "No information on coverage or accessibility of stakeholder engagement is provided.",
+        "No evidence of coverage or accessibility of stakeholder engagement.",
+        "The document is publicly available and mentions periodic updates.",
+        "Vulnerability reporting paths are accessible to users.",
+        "No mention of coverage or accessibility of stakeholder engagement processes.",
+        "No mention of coverage or accessibility of stakeholder engagement.",
+        "No evidence of coverage or accessibility.",
+        "No information on coverage or accessibility of stakeholder engagement is provided."
+      ],
+      "gaps": [
+        "No mention of ensuring diverse stakeholder access or engagement.",
+        "Insufficient coverage and accessibility of stakeholder engagement processes.",
+        "Does not cover accessibility of stakeholder engagement processes.",
+        "The document lacks details on the accessibility of engagement processes.",
+        "No information on accessibility or coverage of engagement processes.",
+        "It lacks details on how accessible the information is to all stakeholders.",
+        "The document does not cover accessibility for a broader range of stakeholders.",
+        "No information on coverage or accessibility.",
+        "Lacks any information on accessibility or coverage.",
+        "The document does not address coverage or accessibility of engagement.",
+        "The document lacks details on how stakeholder engagement is covered or accessible."
+      ]
+    }
+  },
+  "strengths": [
+    "Commitment to engage with authorities in serious cases.",
+    "Mentions key stakeholders like the CISO and CEO in escalation scenarios.",
+    "Partnerships with organizations for AI safety research.",
+    "Mentions of stakeholder input in strategy planning.",
+    "Public sharing of evaluation results and vulnerability reporting.",
+    "Public input process for drafting AI constitution.",
+    "Vulnerability reporting paths are established.",
+    "Mentions welcoming input from other AI risk assessment groups.",
+    "Commits to periodic updates of the document.",
+    "Model cards provide some transparency.",
+    "Discussion on transparency in privacy policies.",
+    "Acknowledges the need for transparency with impacted customers."
+  ],
+  "weaknesses": [
+    "No identification of stakeholders.",
+    "No documented engagement processes or mechanisms.",
+    "Lacks clear identification of stakeholders.",
+    "Lack of defined escalation paths for stakeholder concerns.",
+    "Insufficient transparency about stakeholder feedback influence.",
+    "Lack of stakeholder identification and engagement processes.",
+    "No engagement or escalation processes are documented.",
+    "Lack of stakeholder identification and engagement mechanisms.",
+    "No clear identification of stakeholders.",
+    "Absence of defined escalation paths and transparency mechanisms.",
+    "No evidence of active stakeholder participation or feedback influence.",
+    "Absence of escalation paths and transparency in feedback handling.",
+    "Lack of clear stakeholder identification.",
+    "Lack of defined escalation paths.",
+    "Lacks identification of stakeholders.",
+    "Absence of escalation paths and transparency in decision-making.",
+    "Lack of engagement mechanisms and escalation paths.",
+    "Lacks detailed escalation paths and evidence of active stakeholder participation.",
+    "No comprehensive stakeholder identification or engagement mechanisms.",
+    "No defined engagement processes or escalation paths."
+  ],
+  "recommendations": [
+    "Establish documented engagement mechanisms and escalation paths.",
+    "Identify and document relevant stakeholders and their roles.",
+    "Define clear escalation paths and ensure active stakeholder participation in governance.",
+    "Establish and document engagement processes and escalation paths.",
+    "Establish and communicate defined escalation paths for issues and decision-making.",
+    "Enhance transparency about how stakeholder feedback is utilized in decision-making.",
+    "Develop and document clear escalation paths for stakeholder issues.",
+    "Develop and document engagement processes and mechanisms for stakeholder input.",
+    "Develop and implement clear engagement and escalation processes.",
+    "Develop a clear stakeholder identification process.",
+    "Develop a comprehensive list of stakeholders and document engagement processes.",
+    "Establish clear escalation paths and demonstrate stakeholder participation.",
+    "Develop and implement structured engagement processes and mechanisms.",
+    "Identify and document relevant stakeholders for AI governance.",
+    "Establish clear engagement mechanisms and escalation paths.",
+    "Establish clear escalation paths and ensure transparency in feedback handling.",
+    "Define and document stakeholder identification and engagement processes.",
+    "Clearly identify and document relevant stakeholders."
+  ],
+  "summary": "Merged from 11 chunks using MAX scoring per criterion. Final overall score = 5/12 for L4_GOV_StakeholderEngagement."
+}

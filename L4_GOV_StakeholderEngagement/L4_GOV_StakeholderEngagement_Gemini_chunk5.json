@@ -1,0 +1,46 @@
+{
+  "overall_score": "0/12",
+  "overall_rating": "Does Not Meet L4",
+  "criteria_scores": {
+    "stakeholder_identification": {
+      "score": 0,
+      "evidence": "No evidence of stakeholder identification.",
+      "gaps": "Lack of clear identification of relevant stakeholders."
+    },
+    "engagement_mechanisms": {
+      "score": 0,
+      "evidence": "No documented engagement processes or mechanisms.",
+      "gaps": "Absence of engagement processes and mechanisms for stakeholder input."
+    },
+    "escalation_paths": {
+      "score": 0,
+      "evidence": "No defined escalation paths for issues or decision-making.",
+      "gaps": "Missing defined escalation paths for issues, concerns, and decision-making."
+    },
+    "active_participation": {
+      "score": 0,
+      "evidence": "No evidence of active stakeholder participation.",
+      "gaps": "No indication of active stakeholder participation in AI governance."
+    },
+    "transparency_feedback": {
+      "score": 0,
+      "evidence": "No transparency about stakeholder feedback influence.",
+      "gaps": "Lack of transparency about how stakeholder feedback influences decisions."
+    },
+    "coverage_accessibility": {
+      "score": 0,
+      "evidence": "No coverage or accessibility information.",
+      "gaps": "No mention of coverage or accessibility for stakeholders."
+    }
+  },
+  "strengths": [],
+  "weaknesses": [
+    "No stakeholder engagement processes.",
+    "No escalation paths or transparency mechanisms."
+  ],
+  "recommendations": [
+    "Define and document stakeholder engagement processes.",
+    "Establish clear escalation paths and transparency mechanisms."
+  ],
+  "summary": "The document does not meet the L4 governance standard for stakeholder engagement. It lacks identification of stakeholders, engagement mechanisms, escalation paths, active participation, and transparency about feedback influence."
+}

@@ -1,0 +1,49 @@
+{
+  "overall_score": "6/12",
+  "overall_rating": "Partially Meets L4",
+  "criteria_scores": {
+    "code_of_conduct": {
+      "score": 1,
+      "evidence": "The document outlines a set of principles based on the Universal Declaration of Human Rights and other sources, but lacks a formal code of conduct specifically for AI development.",
+      "gaps": "No explicit mention of a formal code of conduct or consequences for violations."
+    },
+    "roles_responsibilities": {
+      "score": 1,
+      "evidence": "The document mentions roles like Responsible Scaling Officer and governance bodies such as the board of directors and LTBT.",
+      "gaps": "Roles specific to AI ethics and governance are not clearly defined, and there is limited detail on cross-functional coordination."
+    },
+    "training_programs": {
+      "score": 0,
+      "evidence": "There is no mention of training programs or requirements for staff working with AI systems.",
+      "gaps": "Lacks documentation on training content, target audiences, and assessment components."
+    },
+    "implementation_evidence": {
+      "score": 1,
+      "evidence": "The document describes some implementation measures like ASL evaluations and security commitments.",
+      "gaps": "Limited evidence of how these policies are applied in practice or integrated into the development lifecycle."
+    },
+    "enforcement_accountability": {
+      "score": 1,
+      "evidence": "Mentions procedural commitments and a non-compliance reporting policy.",
+      "gaps": "Lacks detailed auditing processes, whistleblower mechanisms, and external oversight references."
+    },
+    "integration_coherence": {
+      "score": 2,
+      "evidence": "The document shows integration between safety levels, security measures, and procedural commitments.",
+      "gaps": "Could improve on regular review processes and alignment with external standards."
+    }
+  },
+  "strengths": [
+    "Comprehensive set of principles inspired by international human rights and industry best practices.",
+    "Detailed procedural commitments and safety measures for AI scaling."
+  ],
+  "weaknesses": [
+    "Lack of a formal code of conduct specifically for AI development.",
+    "No documented training programs for staff involved in AI systems."
+  ],
+  "recommendations": [
+    "Develop and publish a formal code of conduct for AI development with clear consequences for violations.",
+    "Implement training programs for staff on responsible AI practices and document these efforts."
+  ],
+  "summary": "The documentation partially meets the Governance Level 4 standard. While it provides a robust framework for AI safety and scaling, it lacks a formal code of conduct and documented training programs. Enhancements in these areas would strengthen its alignment with the L4 standard."
+}
